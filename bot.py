@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, ContextTypes, filters
 
 # ВСТАВЬ СЮДА СВОИ ДАННЫЕ
-BOT_TOKEN = "8879148508:AAH1L7dKa0fUDMDWXiDOTIBURlNhFYbwhUI"
+BOT_TOKEN = "8879148508:AAGoyDDgFamHnZGnFySbFtA30ehVef6ceyc"
 WEATHER_API_KEY = "3844242028f28a15119688add739110c"
 
 # Координаты Алматы
